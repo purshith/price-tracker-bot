@@ -1,7 +1,7 @@
 // Environment Variables
 
-const token = '18644547xxxxxxxxxxxxxxxxxxxxJLYtRmyKjI'; // bot token
-const botName = '@flipkartX_bot'; // bot username along with @
+const token = '6924756046:AAGiDtvcXRgOorhpqEPWrF_m9UJKA9Urgrs'; // bot token
+const botName = '@Price_tracker_deals_store_bot'; // bot username along with @
 const batchSize = 12
 const trackAfter = 5
 const patreon = [ownerid, 806378672] // gives benifits for pincode tracking feature
